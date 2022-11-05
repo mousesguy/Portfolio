@@ -100,7 +100,7 @@ header.shadow {
   grid-template-columns: 0.2fr 1fr 1fr;
   align-items: center;
   gap: 1rem;
-  background: url("taras-chernus-jUYB3qeqzPs-unsplash.jpg");
+  background: url("images/taras-chernus-jUYB3qeqzPs-unsplash.jpg");
   background-size: cover;
   background-attachment: fixed; 
 }
