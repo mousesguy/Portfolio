@@ -163,7 +163,7 @@ header.shadow {
 }
 .abtext{
   font-size: var(--p-font);
-  width: 400px;
+  width: 800px;
   font-weight: 500;
   text-align: justify;
 }
@@ -230,13 +230,13 @@ span {
   border-radius: 0.5rem;
 }
 .html-bar {
-  width: 94%;
+  width: 70%;
 }
 .css-bar {
-  width: 84%;
+  width: 60%;
 }
 .js-bar {
-  width: 74%;
+  width: 30%;
 }
 .react-bar {
   width: 80%;
